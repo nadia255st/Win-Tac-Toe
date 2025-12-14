@@ -5,7 +5,7 @@ Win-Tac-Toe ist eine interaktive Spielbox, die es ermöglicht, Tic-Tac-Toe um e
 **🎮 Spielstart:**
 Das Spiel beginnt, sobald eine Münze eingeworfen und vom Modulino Distance Sensor erkannt wird. Eine LED-Animation und eine Soundansage signalisieren den Start.
 Spielablauf:
-Spieler/in 1 (Blau) und Spieler/in 2 (Rot) wechseln sich ab und setzen mithilfe eines Joysticks und Buttons ihre Züge auf dem LED-Spielfeld.
+Spieler/in 1 (Blau) und Spieler/in 2 (Rot) wechseln sich ab und setzen mithilfe eines Joysticks ihre Züge auf dem LED-Spielfeld.
 
 **🏆 Gewinnbedingung:**
 Ein/e Spieler/in gewinnt eine Runde, sobald eine gültige Gewinnkombination erreicht wird. Wer zuerst drei Runden gewinnt, entscheidet das Spiel für sich.
@@ -52,9 +52,6 @@ Nach der Siegerankündigung kann der/die Gewinner/in die beleuchtete Klappe öff
 - Soundbox klein: 1 Stk. 
 - NeoPixel LED Strip: 9 LEDs durch 3 teilen und zusammen löten
 <img width="727" height="395" alt="image" src="https://github.com/user-attachments/assets/a093c997-93dd-4384-bf01-3e13b8f341b8" />
-
-## 3D Druck
-...
 
 # 🛠️ Aufbau
 <img width="797" height="251" alt="image" src="https://github.com/user-attachments/assets/167bc55d-6979-473c-bbbb-b3785e154e8c" />
