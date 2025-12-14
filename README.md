@@ -14,7 +14,7 @@ Ein/e Spieler/in gewinnt eine Runde, sobald eine gültige Gewinnkombination erre
 Nach der Siegerankündigung kann der/die Gewinner/in die beleuchtete Klappe öffnen und die Münze entnehmen. Danach ist das Spiel bereit für einen Neustart.
 
 # 🎥 Video
-
+**Video** (https://github.com/nadia255st/Win-Tac-Toe/issues/1#issue-3727797144)
 
 # 📜 Spielanleitung
 1. Wirf eine Münze in den Schlitz. 🪙
