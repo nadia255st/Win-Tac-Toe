@@ -13,6 +13,8 @@ Ein/e Spieler/in gewinnt eine Runde, sobald eine gültige Gewinnkombination erre
 **🏁 Spielende:**
 Nach der Siegerankündigung kann der/die Gewinner/in die beleuchtete Klappe öffnen und die Münze entnehmen. Danach ist das Spiel bereit für einen Neustart.
 
+# 🎥 Video
+
 # 📜 Spielanleitung
 1. Wirf eine Münze in den Schlitz. 🪙
   <img width="171" height="179" alt="image" src="https://github.com/user-attachments/assets/f96f0514-c64c-4650-bdc8-79369ac0e5f9" />
@@ -41,7 +43,6 @@ Nach der Siegerankündigung kann der/die Gewinner/in die beleuchtete Klappe öff
 14. Das Spiel kann bei Bedarf erneut gestartet werden.
 
 # 👾 Anforderungen Software / Hardware
-## Arduino
 - Arduino Nano ESP32: 1 Stk. 
 - Modulino Distance: 1 Stk. 
 - Modulino Pixels : 1 Stk. 
