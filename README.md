@@ -15,6 +15,7 @@ Nach der Siegerankündigung kann der/die Gewinner/in die beleuchtete Klappe öff
 
 # 🎥 Video
 
+
 # 📜 Spielanleitung
 1. Wirf eine Münze in den Schlitz. 🪙
   <img width="171" height="179" alt="image" src="https://github.com/user-attachments/assets/f96f0514-c64c-4650-bdc8-79369ac0e5f9" />
